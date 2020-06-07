@@ -24,7 +24,7 @@
 - [ReactJS.tw](https://www.facebook.com/groups/reactjs.tw/)
 - [Angular Taiwan](https://www.facebook.com/groups/augularjs.tw/)
 
-# 部落格
+# 部落格、Medium
 
 - [Will 保哥](https://blog.miniasp.com/)
 - [Huli](https://blog.huli.tw/)
@@ -32,6 +32,7 @@
 - [Summer。桑莫。夏天](https://cythilya.github.io/)
 - [PJChen](https://pjchender.blogspot.com/)
 - [OXXO](https://www.oxxostudio.tw/)
+- [神 Q 超人](https://medium.com/@GQSM)
 - [阮一鋒](http://www.ruanyifeng.com/blog/)
 
 # 書籍
