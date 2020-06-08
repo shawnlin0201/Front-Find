@@ -101,3 +101,4 @@
 
 - [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)：非常詳盡的說明了工程師問題發問的技巧。
 - [JavaScript 核心](http://notepad.yehyeh.net/Content/WebDesign/Javascript/ECMA/Core/JavaScriptCore.php)
+- [Vue 測試指南](https://lmiller1990.github.io/vue-testing-handbook/zh-CN/)
