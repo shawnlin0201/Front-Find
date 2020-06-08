@@ -91,7 +91,7 @@
 
 ### 電子書
 
-- [前端養成手冊](https://mrliao.gitbooks.io/f2ebook/content/)：由六角學院校長廖洧杰撰寫的手冊，[GitHub 連結](https://github.com/gonsakon/F2EBOOK)
+- [前端養成手冊](https://mrliao.gitbooks.io/f2ebook/content/)：由廖洧杰撰寫的手冊，[GitHub 連結](https://github.com/gonsakon/F2EBOOK)
 ---
 
 ## 文章
