@@ -5,7 +5,7 @@
 
 > 這個項目基本上會一直持續更新，若是沒列在上面的可能是我遺漏 or 正在整理的部分。另外也非常歡迎提交 PR ，但同時也希望能說明一下推薦的理由，方便索引，感謝！
 
-# 索引目錄
+## 索引目錄
 - [周刊/月刊](#周刊/月刊)
 - [社群](#社群)
   - [Facebook 社群](#Facebook-社群)
@@ -13,7 +13,7 @@
 - [書籍](#書籍)
 - [文章](#文章)
 
-# 周刊/月刊
+## 周刊/月刊
 這裡集合了一些周更/月更/不定時更新的資訊集合，適合擁有資訊焦慮(?)的工程師們來看看。
 
 [🔝回索引目錄](#索引目錄)
@@ -25,7 +25,7 @@
 - [前端精讀周刊](https://github.com/dt-fe/weekly)
 - [codetengu](https://weekly.codetengu.com/)
 
-# 社群
+## 社群
 目前主要列出幾個較為大型的社群，最後偷偷葉配了一個自己創立的社群。
 
 [🔝回索引目錄](#索引目錄)
@@ -34,7 +34,7 @@
 - [iT 邦幫忙](https://ithelp.ithome.com.tw/)：我自己號稱台灣版的 stackoverflow，很用心在推廣台灣技術圈這塊。
 - [Medium](https://medium.com/)：
 
-## Facebook 社群
+### Facebook 社群
 
 [🔝回索引目錄](#索引目錄)
 
@@ -46,7 +46,7 @@
 - [Angular Taiwan](https://www.facebook.com/groups/augularjs.tw/)
 - [LearnWeb Taiwan](https://www.facebook.com/groups/LearnWeb.Taiwan/)
 
-# 部落格
+## 部落格
 這裡主要列出幾個搜關鍵字時大家應該較為常見的幾個乾貨型部落格，沒有列上的可能只是我尚未整理到，非常歡迎 PR 推薦。
 
 [🔝回索引目錄](#索引目錄)
@@ -61,7 +61,7 @@
 - [良葛格學習筆記](https://openhome.cc/Gossip/)
 - [阮一鋒](http://www.ruanyifeng.com/blog/)
 
-# 書籍
+## 書籍
 書籍主要推了一些我看過後覺得不錯的書籍。
 
 [🔝回索引目錄](#索引目錄)
@@ -79,7 +79,7 @@
 - [JavaScript 技術手冊](https://www.tenlong.com.tw/products/9789865023188)：良葛格所撰寫的 JavaScript 書籍。
 
 
-# 文章
+## 文章
 文章...還真是多到我不知道怎麼貼，我來想想。
 
 [🔝回索引目錄](#索引目錄)
