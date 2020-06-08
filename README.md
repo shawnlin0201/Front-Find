@@ -75,7 +75,7 @@
 - [無瑕的程式碼](https://www.tenlong.com.tw/products/9789862017050)：進入職場一段時間後看這本非常有感，能使自己撰寫的程式碼更容易被他人讀懂。
 - [重構｜改善既有程式的設計](https://www.tenlong.com.tw/products/9789865021832)：搭配無暇程式碼來看，有事半功倍的效用。
 - [忍者：JavaScript 開發技巧探秘](https://www.tenlong.com.tw/products/9789864342525)：俗稱忍者書，非常適合有工作經驗後想精進 JS 核心的工作者。
-<!-- [JavaScript 技術手冊](https://www.tenlong.com.tw/products/9789865023188) --!>
+- [JavaScript 技術手冊](https://www.tenlong.com.tw/products/9789865023188)：良葛格所撰寫的 JavaScript 書籍。
 
 
 # 文章
@@ -83,4 +83,5 @@
 
 [🔝回索引目錄](#索引目錄)
 
+- [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)：非常詳盡的說明了工程師問題發問的技巧。
 - [JavaScript 核心](http://notepad.yehyeh.net/Content/WebDesign/Javascript/ECMA/Core/JavaScriptCore.php)
