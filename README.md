@@ -6,12 +6,12 @@
 > 這個項目基本上會一直持續更新，若是沒列在上面的可能是我遺漏 or 正在整理的部分。另外也非常歡迎提交 PR ，但同時也希望能說明一下推薦的理由，方便索引，感謝！
 
 # 索引目錄
-- [周刊/月刊]()
-- [社群]()
-  - [Facebook 社群]()
-- [部落格]()
-- [書籍]()
-- [文章]()
+- [周刊/月刊](#周刊/月刊)
+- [社群](#社群)
+  - [Facebook 社群](#Facebook-社群)
+- [部落格](#部落格)
+- [書籍](#書籍)
+- [文章](#文章)
 
 
 # 周刊/月刊
@@ -31,7 +31,7 @@
 - [iT 邦幫忙](https://ithelp.ithome.com.tw/)：我自己號稱台灣版的 stackoverflow，很用心在推廣台灣技術圈這塊。
 - [Medium](https://medium.com/)：
 
-## Facebook 類社群
+## Facebook 社群
 
 - [Front-End Developers Taiwan](https://www.facebook.com/groups/f2e.tw/)
 - [台北前端社群](https://www.facebook.com/groups/f2e.taipei/)
