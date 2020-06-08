@@ -15,6 +15,7 @@
 - [部落格](#部落格)
 - [書籍](#書籍)
 - [文章](#文章)
+- [框架](#框架)
 
 ---
 
@@ -77,8 +78,6 @@
 
 [🔝回索引目錄](#索引目錄)
 
-> 目前暫時先羅列項目，之後會在考慮分類，至於連結主要都放天瓏倒也不是業配而是天瓏對這方面書籍真的就整理得比較齊全。
-
 - [HTML & CSS : 網站設計建置優化之道 ](https://www.tenlong.com.tw/products/9789862765012)：歷久不衰的 HTML & CSS 教本。
 - [JavaScript 學習手冊](https://www.tenlong.com.tw/products/9789864762460)：俗稱的小犀牛，初入門可以考慮這本。
 - [0 陷阱！0 誤解！8 天重新認識 JavaScript！](https://www.tenlong.com.tw/products/9789864344130)：008JS，深入淺出 JS 核心觀念。
@@ -88,9 +87,6 @@
 - [重構｜改善既有程式的設計](https://www.tenlong.com.tw/products/9789865021832)：搭配無暇程式碼來看，有事半功倍的效用。
 - [忍者：JavaScript 開發技巧探秘](https://www.tenlong.com.tw/products/9789864342525)：俗稱忍者書，非常適合有工作經驗後想精進 JS 核心的工作者。
 - [JavaScript 技術手冊](https://www.tenlong.com.tw/products/9789865023188)：良葛格所撰寫的 JavaScript 書籍。
-
-### 電子書
-
 - [前端養成手冊](https://mrliao.gitbooks.io/f2ebook/content/)：由廖洧杰撰寫的手冊，[GitHub 連結](https://github.com/gonsakon/F2EBOOK)
 ---
 
@@ -101,4 +97,13 @@
 
 - [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)：非常詳盡的說明了工程師問題發問的技巧。
 - [JavaScript 核心](http://notepad.yehyeh.net/Content/WebDesign/Javascript/ECMA/Core/JavaScriptCore.php)
+
+## 框架
+
+[🔝回索引目錄](#索引目錄)
+
+- [Vue](https://vuejs.org/)
+- [Vuex](https://vuex.vuejs.org/zh/guide/)
+- [Vue-router](https://router.vuejs.org/zh/)
+- [Vue 測試](https://vue-test-utils.vuejs.org/zh/)
 - [Vue 測試指南](https://lmiller1990.github.io/vue-testing-handbook/zh-CN/)
