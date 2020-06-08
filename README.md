@@ -58,6 +58,7 @@
 - [PJChen](https://pjchender.blogspot.com/)
 - [OXXO](https://www.oxxostudio.tw/)
 - [神 Q 超人](https://medium.com/@GQSM)
+- [良葛格學習筆記](https://openhome.cc/Gossip/)
 - [阮一鋒](http://www.ruanyifeng.com/blog/)
 
 # 書籍
