@@ -121,10 +121,10 @@
 [🔝回索引目錄](#索引目錄)
 
 - [Google Material Design 正體中文版](https://github.com/Wcc723/google_design_translate)：由 Casper 發起的 Material Design Guideline 翻譯計畫。
-- [CSS Design Awards](https://www.cssdesignawards.com/)：
+- [CSS Design Awards](https://www.cssdesignawards.com/)：：收集一些設計網站。
 - [FWA](https://thefwa.com/)：設計網站獎項，有年度、月份、每日獎項，可以發起投稿並得到多位評審的回覆。
-- [Good Design Web](http://gooddesignweb.com/)
-- [S5-Style](https://bm.s5-style.com/)：收集了
+- [Good Design Web](http://gooddesignweb.com/)：收集一些設計網站。
+- [S5-Style](https://bm.s5-style.com/)：收集一些設計網站。
 - [One Page Love](https://onepagelove.com/)：一頁式網站設計。
 - [Muuuuu](https://muuuuu.org/)：一頁式網站設計。
 
