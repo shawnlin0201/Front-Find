@@ -16,6 +16,7 @@
 - [書籍](#書籍)
 - [文章](#文章)
 - [框架](#框架)
+- [設計](#設計)
 
 ---
 
@@ -88,6 +89,7 @@
 - [忍者：JavaScript 開發技巧探秘](https://www.tenlong.com.tw/products/9789864342525)：俗稱忍者書，非常適合有工作經驗後想精進 JS 核心的工作者。
 - [JavaScript 技術手冊](https://www.tenlong.com.tw/products/9789865023188)：良葛格所撰寫的 JavaScript 書籍。
 - [前端養成手冊](https://mrliao.gitbooks.io/f2ebook/content/)：由廖洧杰撰寫的手冊，[GitHub 連結](https://github.com/gonsakon/F2EBOOK)
+
 ---
 
 ## 文章
@@ -97,6 +99,8 @@
 
 - [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)：非常詳盡的說明了工程師問題發問的技巧。
 - [JavaScript 核心](http://notepad.yehyeh.net/Content/WebDesign/Javascript/ECMA/Core/JavaScriptCore.php)
+
+---
 
 ## 框架
 
@@ -108,3 +112,14 @@
 - [Vue-router](https://router.vuejs.org/zh/)
 - [Vue 測試](https://vue-test-utils.vuejs.org/zh/)
 - [Vue 測試指南](https://lmiller1990.github.io/vue-testing-handbook/zh-CN/)
+
+---
+
+## 設計
+即便不是前端設計，前端開發也可以來看看這些美好的東西。
+
+[🔝回索引目錄](#索引目錄)
+
+- [Google Material Design 正體中文版](https://github.com/Wcc723/google_design_translate)：由 Casper 發起的 Material Design Guideline 翻譯計畫。
+
+
