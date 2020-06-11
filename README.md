@@ -13,14 +13,14 @@
 - [思維](#思維)
 - [框架](#框架)
 - [設計](#設計)
-- [懶人包](#懶人包)
 - [圖標](#圖標)
 - [字型](#字型)
+- [懶人包](#懶人包)
 
 ---
 
 ## 周刊/月刊
-這裡集合了一些周更/月更/不定時更新的資訊集合，適合擁有資訊焦慮(?)的工程師們來看看。
+更更能有幾多愁，
 
 [🔝回索引目錄](#索引目錄)
 
@@ -52,7 +52,7 @@
 ---
 
 ## 部落格
-這裡主要列出幾個搜關鍵字時大家應該較為常見的幾個乾貨型部落格，沒有列上的可能只是我尚未整理到，非常歡迎 PR 推薦。
+部落格有如黃金屋！
 
 [🔝回索引目錄](#索引目錄)
 
@@ -69,7 +69,7 @@
 ---
 
 ## 書籍
-書籍主要推了一些我看過後覺得不錯的書籍。
+勸君惜取少年時，一本
 
 [🔝回索引目錄](#索引目錄)
 
@@ -87,7 +87,7 @@
 ---
 
 ## 思維
-文章...還真是多到我不知道怎麼貼，我來想想。
+我思故我是工程師，我讀完心法變大師。
 
 [🔝回索引目錄](#索引目錄)
 
@@ -98,6 +98,7 @@ Web Accessibility)
 ---
 
 ## 框架
+框架局限了我們視野，但卻讓我們做得更快，有誰不喜歡呢？
 
 [🔝回索引目錄](#索引目錄)
 
@@ -111,7 +112,7 @@ Web Accessibility)
 ---
 
 ## 設計
-即便不是前端設計，前端開發也可以來看看這些美好的東西。
+即便不是設計，我們還是可以來看看這些美好的東西。
 
 [🔝回索引目錄](#索引目錄)
 
@@ -122,21 +123,6 @@ Web Accessibility)
 - [S5-Style](https://bm.s5-style.com/)：收集一些設計網站。
 - [One Page Love](https://onepagelove.com/)：一頁式網站設計。
 - [Muuuuu](https://muuuuu.org/)：一頁式網站設計。
-
----
-
-## 懶人包
-工程師很忙的，有沒有純一點的懶人包。
-
-[🔝回索引目錄](#索引目錄)
-
-- [JavaScript 核心](http://notepad.yehyeh.net/Content/WebDesign/Javascript/ECMA/Core/JavaScriptCore.php)
-- [awesome-html5](https://github.com/diegocard/awesome-html5)
-- [awesome-css](https://github.com/awesome-css-group/awesome-css)
-- [awesome-JavaScript](https://github.com/sorrycc/awesome-javascript)
-- [awesome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
-- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions#javascript)
-- [awesome-vue](https://github.com/rmjordas/awesome-vue)
 
 ---
 
@@ -157,4 +143,20 @@ Web Accessibility)
 
 - [開源粉圓體](https://github.com/justfont/open-huninn-font)
 - [Google Font](https://fonts.google.com/)
+
+---
+
+## 懶人包
+來點更純的吧！一天從下忍變上忍的那種！
+
+[🔝回索引目錄](#索引目錄)
+
+- [JavaScript 核心](http://notepad.yehyeh.net/Content/WebDesign/Javascript/ECMA/Core/JavaScriptCore.php)
+- [awesome-html5](https://github.com/diegocard/awesome-html5)
+- [awesome-css](https://github.com/awesome-css-group/awesome-css)
+- [awesome-JavaScript](https://github.com/sorrycc/awesome-javascript)
+- [awesome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
+- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions#javascript)
+- [awesome-vue](https://github.com/rmjordas/awesome-vue)
+
 
