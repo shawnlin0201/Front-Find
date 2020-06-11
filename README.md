@@ -8,7 +8,6 @@
 ## 索引目錄
 - [周刊/月刊](#周刊/月刊)
 - [社群](#社群)
-  - [Facebook 社群](#Facebook-社群)
 - [部落格](#部落格)
 - [書籍](#書籍)
 - [文章](#文章)
@@ -34,18 +33,13 @@
 ---
 
 ## 社群
-目前主要列出幾個較為大型的社群，最後偷偷葉配了一個自己創立的社群。
+地方的工程師需要協助！
 
 [🔝回索引目錄](#索引目錄)
 
 - [stackoverflow](https://stackoverflow.com/)：技術問答、交流技術社群，可說是工程師們的衣食父母(?)。
 - [iT 邦幫忙](https://ithelp.ithome.com.tw/)：我自己號稱台灣版的 stackoverflow，很用心在推廣台灣技術圈這塊。
-- [Medium](https://medium.com/)：
-
-### Facebook 社群
-
-[🔝回索引目錄](#索引目錄)
-
+- [Medium](https://medium.com/)：需搭配關鍵字搜尋
 - [Front-End Developers Taiwan](https://www.facebook.com/groups/f2e.tw/)
 - [台北前端社群](https://www.facebook.com/groups/f2e.taipei/)
 - [高雄前端社群](https://www.facebook.com/groups/358503154261390)
