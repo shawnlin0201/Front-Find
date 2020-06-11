@@ -10,10 +10,10 @@
 - [社群](#社群)
 - [部落格](#部落格)
 - [書籍](#書籍)
-- [文章](#文章)
+- [思維](#思維)
 - [框架](#框架)
 - [設計](#設計)
-- [Awesome](#Awesome)
+- [懶人包](#懶人包)
 - [圖標](#圖標)
 - [字型](#字型)
 
@@ -86,13 +86,14 @@
 
 ---
 
-## 文章
+## 思維
 文章...還真是多到我不知道怎麼貼，我來想想。
 
 [🔝回索引目錄](#索引目錄)
 
 - [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)：非常詳盡的說明了工程師問題發問的技巧。
-- [JavaScript 核心](http://notepad.yehyeh.net/Content/WebDesign/Javascript/ECMA/Core/JavaScriptCore.php)
+- [a11y 系列文章](https://ithelp.ithome.com.tw/users/20108045/ironman/2454)：在著重現代網頁開發技術時，你是否有考慮到無障礙網頁設計呢？(
+Web Accessibility)
 
 ---
 
@@ -124,11 +125,12 @@
 
 ---
 
-## Awesome
-跟前端較有關聯的幾個 Awesome 系列。
+## 懶人包
+工程師很忙的，有沒有純一點的懶人包。
 
 [🔝回索引目錄](#索引目錄)
 
+- [JavaScript 核心](http://notepad.yehyeh.net/Content/WebDesign/Javascript/ECMA/Core/JavaScriptCore.php)
 - [awesome-html5](https://github.com/diegocard/awesome-html5)
 - [awesome-css](https://github.com/awesome-css-group/awesome-css)
 - [awesome-JavaScript](https://github.com/sorrycc/awesome-javascript)
