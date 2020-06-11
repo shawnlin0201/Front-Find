@@ -14,7 +14,8 @@
 - [框架](#框架)
 - [設計](#設計)
 - [Awesome](#Awesome)
-- [Icon](#Icon)
+- [圖標](#圖標)
+- [字型](#字型)
 
 ---
 
@@ -137,11 +138,21 @@
 
 ---
 
-## Icon
+## 圖標
 有誰不喜歡 Icon？我們需要更多的 Icon！
 
 [🔝回索引目錄](#索引目錄)
 
 - [TW Icon Fonts](https://www.twicon.page/index.html)
 - [Font Awesome](https://fontawesome.com/)
+
+---
+
+## 字型
+字字當思得來不易。
+
+[🔝回索引目錄](#索引目錄)
+
+- [開源粉圓體](https://github.com/justfont/open-huninn-font)
+- [Google Font](https://fonts.google.com/)
 
