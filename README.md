@@ -97,7 +97,7 @@
 - [重構｜改善既有程式的設計](https://www.tenlong.com.tw/products/9789865021832)：搭配無暇程式碼來看，有事半功倍的效用。
 - [忍者：JavaScript 開發技巧探秘](https://www.tenlong.com.tw/products/9789864342525)：俗稱忍者書，非常適合有工作經驗後想精進 JS 核心的工作者。
 - [JavaScript 技術手冊](https://www.tenlong.com.tw/products/9789865023188)：良葛格所撰寫的 JavaScript 書籍。
-- [前端養成手冊](https://mrliao.gitbooks.io/f2ebook/content/)：由廖洧杰撰寫的手冊，[GitHub 連結](https://github.com/gonsakon/F2EBOOK)
+- [前端養成手冊](https://mrliao.gitbooks.io/f2ebook/content/)：由六角學院創辦人廖洧杰撰寫的手冊，[GitHub 連結](https://github.com/gonsakon/F2EBOOK)
 
 ---
 
