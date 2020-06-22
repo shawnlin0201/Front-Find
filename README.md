@@ -111,7 +111,7 @@
 - [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)：非常詳盡的說明了工程師問題發問的技巧。
 - [a11y 系列文章](https://ithelp.ithome.com.tw/users/20108045/ironman/2454)：在著重現代網頁開發技術時，你是否有考慮到無障礙網頁設計呢？(
 Web Accessibility)
-- [視覺化 JavaScript 抽象語法術](https://esprima.org/demo/parse.html#)
+- [視覺化 JavaScript 抽象語法樹](https://esprima.org/demo/parse.html#)
 
 ---
 
