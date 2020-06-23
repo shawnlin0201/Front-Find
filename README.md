@@ -27,7 +27,7 @@
 
 - [JavaScript pop quiz](https://js-pop-quiz.now.sh/)：JavaScript 快問快答
 - [Codewars](https://www.codewars.com/)：可選擇不同語言挑戰
-- [Learn JavaSciprt Online](https://learnjavascript.online/)：互動式學習網站，社群[Coupon](https://learnjavascript.online/payment-request.html?code=jstw)
+- [Learn JavaSciprt Online](https://learnjavascript.online/)：互動式學習網站
 
 ---
 
