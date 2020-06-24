@@ -16,8 +16,8 @@
 - [議題](#議題)
 - [框架](#框架)
 - [設計](#設計)
-- [圖標](#圖標)
-- [字型](#字型)
+  - [圖標](#圖標)
+  - [字型](#字型)
 - [懶人包](#懶人包)
 
 ---
@@ -157,9 +157,9 @@ Web Accessibility）
 
 ## 設計
 > 即便不是設計，我們還是可以來看看這些美好的東西。
-
 [🔝回索引目錄](#索引目錄)
 
+### 網站設計
 - [Google Material Design 正體中文版](https://github.com/Wcc723/google_design_translate)：由 Casper 發起的 Material Design Guideline 翻譯計畫。
 - [CSS Design Awards](https://www.cssdesignawards.com/)：：收集一些設計網站。
 - [FWA](https://thefwa.com/)：設計網站獎項，有年度、月份、每日獎項，可以發起投稿並得到多位評審的回覆。
@@ -168,27 +168,17 @@ Web Accessibility）
 - [One Page Love](https://onepagelove.com/)：一頁式網站設計。
 - [Muuuuu](https://muuuuu.org/)：一頁式網站設計。
 
----
-
-## 圖標
+### 圖標
 > 我們需要更多的 Icon！
-
-[🔝回索引目錄](#索引目錄)
-
 - [TW Icon Fonts](https://www.twicon.page/index.html)
 - [Font Awesome](https://fontawesome.com/)
 
----
-
-## 字型
+### 字型
 > 字字當思得來不易。
-
-[🔝回索引目錄](#索引目錄)
-
 - [開源粉圓體](https://github.com/justfont/open-huninn-font)
 - [Google Font](https://fonts.google.com/)
 
----
+
 
 ## 懶人包
 > 來點更純的吧！一天從下忍變上忍的那種！
