@@ -6,17 +6,32 @@
 ---
 
 ## 索引目錄
+- [發問](#發問)
 - [挑戰](#挑戰)
 - [周刊/月刊](#周刊/月刊)
 - [社群](#社群)
 - [部落格](#部落格)
 - [書籍](#書籍)
-- [思維](#思維)
+- [議題](#議題)
 - [框架](#框架)
 - [設計](#設計)
 - [圖標](#圖標)
 - [字型](#字型)
 - [懶人包](#懶人包)
+
+---
+
+## 發問
+> 工程師最拿手的就是解決問題跟問問題！
+
+[🔝回索引目錄](#索引目錄)
+
+> 友善建議，發問時可以附上程式碼段落可以加速社群回覆。
+
+- [JS Bin](https://jsbin.com/)：可迅速展示程式碼在網頁客戶端的呈現
+- [Codepen](https://codepen.io/)：可迅速展示程式碼在網頁客戶端的呈現
+- [中文文案排版](https://github.com/sparanoid/chinese-copywriting-guidelines)：良好的排版能讓文件更容易地被閱讀。
+- [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)：這份文件詳盡地說明了工程師領域發問技巧。
 
 ---
 
@@ -103,16 +118,25 @@
 
 ---
 
-## 思維
-> 我思故我是工程師。
+## 服務
+> 服務。
 
 [🔝回索引目錄](#索引目錄)
 
-- [中文文案排版](https://github.com/sparanoid/chinese-copywriting-guidelines)：良好的排版能讓文件更容易地被閱讀。
-- [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)：非常詳盡的說明了工程師問題發問的技巧。
+- [視覺化 JavaScript 抽象語法樹](https://esprima.org/demo/parse.html#)
+- [postman](https://www.postman.com/)：測試 API 非常好用的工具。
+- [Travis-CI](https://travis-ci.org//)：GitHub repo 免費 CI 工具。
+
+
+---
+
+## 議題
+> 網頁開發不僅要跟得上國際（i18n）還要有親和力（a11y）！。
+
+[🔝回索引目錄](#索引目錄)
+
 - [a11y 系列文章](https://ithelp.ithome.com.tw/users/20108045/ironman/2454)：在著重現代網頁開發技術時，你是否有考慮到無障礙網頁設計呢？(
 Web Accessibility）
-- [視覺化 JavaScript 抽象語法樹](https://esprima.org/demo/parse.html#)
 
 ---
 
