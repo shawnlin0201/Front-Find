@@ -111,7 +111,7 @@
 - [0 陷阱！0 誤解！8 天重新認識 JavaScript！](https://www.tenlong.com.tw/products/9789864344130)：008JS，深入淺出 JS 核心觀念。
 - [JavaScript 大全](https://www.tenlong.com.tw/products/9789862764411)：俗稱的大犀牛，這本真的可以算是集大全了。
 - [你所不知道的 JS 系列](https://www.tenlong.com.tw/products/9789863479666)：挑選幾個 JS 核心來說，這本講得更偏向底層的實際運作。
-- [無瑕的程式碼](https://www.tenlong.com.tw/products/9789862017050)
+- [無瑕的程式碼－敏捷軟體開發技巧守則](https://www.tenlong.com.tw/products/9789862017050)
 > 寫了一定數量的程式碼再這本會比較有感，主要是使程式碼更容易被讀懂，讓開發階段閱讀程式碼可以更加的流暢，維護時也可以更容易的增減程式碼，從而增進開發效率。而書中範例為 Java，如果怕看不懂開源專案中也有以 JavaScript 為範例的版本：（[英文](https://github.com/ryanmcdermott/clean-code-javascript)）、（[正體中文](https://github.com/AllJointTW/clean-code-javascript)）
 - [重構｜改善既有程式的設計](https://www.tenlong.com.tw/products/9789865021832)：搭配無暇程式碼來看，有事半功倍的效用。
 - [忍者：JavaScript 開發技巧探秘](https://www.tenlong.com.tw/products/9789864342525)：俗稱忍者書，非常適合有工作經驗後想精進 JS 核心的工作者。
