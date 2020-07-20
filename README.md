@@ -128,8 +128,8 @@
 - [CSS vocabulary](http://apps.workflower.fi/vocabs/css/en)：：視覺化 CSS 用語辭典。
 - [JavaScript 抽象語法樹](https://esprima.org/demo/parse.html#)：視覺化 JavaScript 抽象語法樹。
 - [JavaScript Visualizer](https://ui.dev/javascript-visualizer/)：視覺化 JavaScript 中的 Execution Context、Hoisting、Closures 和 Scopes。
-- [](http://latentflip.com/loupe/)：視覺化 JavaScript 在 Runtime 時 Call Stack、Web APIs 與 Job Queue 的事件處理機制。
-- [postman](https://www.postman.com/)：測試 API 非常好用的工具。
+- [Loupe](http://latentflip.com/loupe/)：視覺化 JavaScript 在 Runtime 時 Call Stack、Web APIs 與 Job Queue 的事件處理機制。
+- [Postman](https://www.postman.com/)：測試 API 非常好用的工具。
 - [Travis-CI](https://travis-ci.org//)：GitHub repo 免費 CI 工具。
 
 
