@@ -125,7 +125,9 @@
 
 [🔝回索引目錄](#索引目錄)
 
+
 - [CSS vocabulary](http://apps.workflower.fi/vocabs/css/en)：：視覺化 CSS 用語辭典。
+- [Dev Docs](https://devdocs.io/)：開發者各種語言、工具文件。
 - [JavaScript Abstract Syntax Tree](https://esprima.org/demo/parse.html#)：文字化 JavaScript Abstract Syntax Tree。
 - [JavaScript Abstract Syntax Tree](https://resources.jointjs.com/demos/javascript-ast)：視覺化 JavaScript Abstract Syntax Tree。
 - [JavaScript Visualizer](https://ui.dev/javascript-visualizer/)：視覺化 JavaScript 中的 Execution Context、Hoisting、Closures 和 Scopes。
