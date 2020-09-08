@@ -190,10 +190,11 @@ Web Accessibility）
 ---
 
 ## 懶人包
-> 來點更純的吧！一天從下忍變上忍的那種！
+> 開箱即用的好貨！
 
 [🔝回索引目錄](#索引目錄)
 
+- [JavaScript 入門指南](https://javascript.alphacamp.co/)
 - [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts)
 - [JavaScript 核心](http://notepad.yehyeh.net/Content/WebDesign/Javascript/ECMA/Core/JavaScriptCore.php)
 - [awesome-html5](https://github.com/diegocard/awesome-html5)
