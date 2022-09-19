@@ -104,19 +104,30 @@
 
 [🔝回索引目錄](#索引目錄)
 
+
+### 從求職到入職後
+- [前端養成手冊](https://mrliao.gitbooks.io/f2ebook/content/)
+
+### HTML & CSS
 - [HTML & CSS : 網站設計建置優化之道](https://www.tenlong.com.tw/products/9789862765012)
 - [HTML5 與 CSS3 響應式網頁設計](https://www.tenlong.com.tw/products/9789864760336)
+
+### jQuery
 - [邁向 jQuery 達人的階梯](https://www.tenlong.com.tw/products/9789863122449)
 - [jQuery 實戰手冊](https://www.tenlong.com.tw/products/9789863479727)
+
+### 入門 JavaScript
 - [JavaScript 學習手冊](https://www.tenlong.com.tw/products/9789864762460)
 - [0 陷阱！0 誤解！8 天重新認識 JavaScript！](https://www.tenlong.com.tw/products/9789864344130)
-- [JavaScript 大全](https://www.tenlong.com.tw/products/9789862764411)
-- [你所不知道的 JS 系列](https://www.tenlong.com.tw/products/9789863479666)
+- [JavaScript 技術手冊](https://www.tenlong.com.tw/products/9789865023188)
+
+### 深入 JavaScript
+- [你所不知道的 JS 系列](https://www.tenlong.com.tw/products/9789864760497)
+- [忍者：JavaScript 開發技巧探秘](https://www.tenlong.com.tw/products/9789864342525)
+
+### 精進程式碼
 - [無瑕的程式碼－敏捷軟體開發技巧守則](https://www.tenlong.com.tw/products/9789862017050)
 - [重構｜改善既有程式的設計](https://www.tenlong.com.tw/products/9789865021832)
-- [忍者：JavaScript 開發技巧探秘](https://www.tenlong.com.tw/products/9789864342525)
-- [JavaScript 技術手冊](https://www.tenlong.com.tw/products/9789865023188)
-- [前端養成手冊](https://mrliao.gitbooks.io/f2ebook/content/)
 
 ---
 
