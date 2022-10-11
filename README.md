@@ -86,6 +86,7 @@
 
 [🔝回索引目錄](#索引目錄)
 
+- [Teddy Chen 搞笑談軟工](http://teddy-chen-tw.blogspot.com/)
 - [CSS Coke](http://csscoke.com/)
 - [Huli](https://blog.huli.tw/)
 - [Kuro](https://kuro.tw/)
