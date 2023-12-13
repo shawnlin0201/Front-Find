@@ -179,6 +179,8 @@
 
 [🔝回索引目錄](#索引目錄)
 
+- [F2E Roadmap](https://roadmap.sh/frontend)
+- [學習 Performance](https://web.dev/learn/performance)
 - [JavaScript 入門指南](https://javascript.alphacamp.co/)
 - [33 JavaScript Concepts](https://github.com/leonardomso/33-js-concepts)
 - [JavaScript 核心](http://notepad.yehyeh.net/Content/WebDesign/Javascript/ECMA/Core/JavaScriptCore.php)
